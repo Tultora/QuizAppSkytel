@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="no_internet">Интернэт холболт алга байна</string>
+    <string name="server_unknown">Сервэрийн алдаа гарлаа. Та дараа дахин оролдоно уу</string>
+    <string name="no_user">Нэвтэрсэн хэрэглэгч олдсонгүй</string>
+    <string name="parse_error">Хүсэлтийг хүлээн авч чадсангүй тул та дахин оролдоно уу</string>
+    <string name="authentication_error">Гэрчлэлийн алдаа гарлаа та эхлээд нэвтэрнэ үү</string>
+    <string name="youth_has_no_couple">Хосгүй байна</string>
+</resources>
